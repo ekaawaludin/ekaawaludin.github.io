@@ -1,1 +1,2 @@
-# Please visit http://ekaawaludin.github.io for more.
+http://ekaawaludin.github.io
+It's work in progress..
