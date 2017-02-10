@@ -1,3 +1,3 @@
-<a href="http://ekaawaludin.github.io" target="_blank" alt="Eka's GitHub">http://ekaawaludin.github.io</a>
+http://ekaawaludin.github.io
 <br/>
 It's work in progress..
