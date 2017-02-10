@@ -1,13 +1,14 @@
 /* Basic */
 
-html,
-body {
-    height: 100%;
-    color: #555;
+html, head, body, div, span, h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
     border: 0;
-    overflow: hidden;
+}
+
+html, body {
+    height: 100%;
+    color: #555;
 }
 
 #wrapper-box {
@@ -15,23 +16,15 @@ body {
     height: 100%;
     max-width: 720px;
     margin: 0 auto;
+}
+
+#wrapper-box h1 {
     text-align: center;
 }
 
-#landing,
-#landing-desc {
+#wrapper-box .landing-text {
+    text-align: center;
     font-size: 50px;
-}
-
-#wrapper-box ul {
     position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-}
-
-#wrapper-box li {
-    display: inline-block;
+    top: 45%;
 }
