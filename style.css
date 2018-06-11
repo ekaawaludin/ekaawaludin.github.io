@@ -11,6 +11,17 @@ html, body {
     color: #555;
 }
 
+#inline {
+    margin: 15px auto;
+    padding: 0;
+}
+
+#inline li {
+    display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 #wrapper-box {
     width: 100%;
     height: 100%;
