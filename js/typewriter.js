@@ -1,3 +1,4 @@
+//<![CDATA[
 let wrapper;
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -36,3 +37,4 @@ async function erase() {
 };
 
 writingAll('item', 'data-text');
+//]]>
