@@ -1,1 +1,1 @@
-http://ekaawaludin.github.io
+Ordinary guy living ordinary life.
